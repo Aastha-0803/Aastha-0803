@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aastha-0803
 - 👀 I’m pursuing B.tech from IT branch 2021-2025 batch
 - 🌱 I’m currently learning Javascript
-- 💞️ I have knowledge of Java, C/C++, and DSA. 
+- 💞️ I have knowledge of Python, C/C++, and DSA. 
 - 📫 How to reach me - aastha.mishra0803@gmail.com
 - 😄 Pronouns: She/Her
 
